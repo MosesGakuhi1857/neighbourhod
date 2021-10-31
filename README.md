@@ -48,7 +48,7 @@ These are the actions the user will do.Inputs required and their outputs on the 
 - Clone the repository using the link below
 
 ```
-$ git clone 
+$ git clone https://github.com/MosesGakuhi1857/neighbourhod.git
 
 ```
 
@@ -68,9 +68,6 @@ $ git clone
 - Open the application on your browser , preferably `chrome` using port `127.0.0.1:8000`
 
 
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
@@ -78,6 +75,6 @@ Give a ⭐️ if you like this project!
 - I would like to acknowledge Moringa school for giving me this opportunity to learn software development.
 - Appreciations to  my TM `Justus Onyancha` for the support she gives me.
 
-## 📝 License
+##  License
 
 This project is MIT licensed.
