@@ -4,7 +4,7 @@
 
 This is a Django web application that allows users to be in the loop about everything happening in your neighborhood.
 
-They can get the contact information of different handyman to meeting announcements or even alerts.
+
 
 ## Author
 
@@ -68,12 +68,6 @@ $ git clone https://github.com/MosesGakuhi1857/neighbourhod.git
 - Open the application on your browser , preferably `chrome` using port `127.0.0.1:8000`
 
 
-
-## Acknowledgments
-
-- Thank the Lord for the far He has been with me all through this learning journey.
-- I would like to acknowledge Moringa school for giving me this opportunity to learn software development.
-- Appreciations to  my TM `Justus Onyancha` for the support she gives me.
 
 ##  License
 
