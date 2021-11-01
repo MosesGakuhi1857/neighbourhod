@@ -173,6 +173,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+STATICFILES_STORAGE =  'django.contrib.staticfiles.storage.StaticFilesStorage' 
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
